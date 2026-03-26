@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|d:\\ariel\\balta.io\\projeto porfolio vercel\\meuportfolio\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|d:\\ariel\\balta.io\\projeto porfolio vercel\\meuportfolio\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|d:\\ariel\\balta.io\\projeto porfolio vercel\\meuportfolio\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|d:\\ariel\\balta.io\\projeto porfolio vercel\\meuportfolio\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|d:\\ariel\\balta.io\\projeto porfolio vercel\\meuportfolio\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|d:\\ariel\\balta.io\\projeto porfolio vercel\\meuportfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|d:\\ariel\\balta.io\\projeto porfolio vercel\\meuportfolio\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,32 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "app.css",
-              "DocumentMoniker": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\wwwroot\\css\\app.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
-              "ToolTip": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\wwwroot\\css\\app.css",
-              "RelativeToolTip": "wwwroot\\css\\app.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-25T18:50:00.179Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.razor",
-              "DocumentMoniker": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\Pages\\Index.razor",
-              "RelativeDocumentMoniker": "Pages\\Index.razor",
-              "ToolTip": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\Pages\\Index.razor",
-              "RelativeToolTip": "Pages\\Index.razor",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEcAAABdAAAAAAAAAA==",
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-24T23:10:08.283Z",
+              "WhenOpened": "2026-03-26T19:56:13.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
@@ -75,11 +55,12 @@
               "RelativeToolTip": "Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-24T23:09:47.579Z"
+              "WhenOpened": "2026-03-24T23:09:47.579Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "App.razor",
               "DocumentMoniker": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\App.razor",
               "RelativeDocumentMoniker": "App.razor",
@@ -87,19 +68,8 @@
               "RelativeToolTip": "App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-24T23:09:36.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T23:09:08.22Z"
+              "WhenOpened": "2026-03-24T23:09:36.679Z",
+              "EditorCaption": ""
             }
           ]
         }
