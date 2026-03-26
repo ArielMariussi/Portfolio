@@ -1,0 +1,8 @@
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\MeuPortfolio.csproj.AssemblyReference.cache
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\rpswa.dswa.cache.json
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\MeuPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\MeuPortfolio.AssemblyInfoInputs.cache
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\MeuPortfolio.AssemblyInfo.cs
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\MeuPortfolio.csproj.CoreCompileInputs.cache
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\MeuPortfolio.MvcApplicationPartsAssemblyInfo.cache
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\MeuPortfolio.sourcelink.json
