@@ -1,0 +1,134 @@
+@page "/"
+
+<PageTitle>Ariel Mariussi — Desenvolvedor .NET Fullstack</PageTitle>
+
+<!-- ── HERO ── -->
+<section class="hero">
+    <div class="site-wrapper">
+        <p class="hero-label fade-in">Desenvolvedor .NET Fullstack</p>
+        <h1 class="hero-name fade-in delay-1">
+            Ariel<br /><span>Mariussi</span>
+        </h1>
+        <p class="hero-role fade-in delay-2">// C# · .NET · Blazor · REST APIs</p>
+        <p class="hero-desc fade-in delay-3">
+            Desenvolvedor fullstack especializado em <strong>.NET</strong> e <strong>C#</strong>.
+            Construo APIs robustas, interfaces modernas com Blazor e
+            soluções completas do banco de dados até a interface.
+        </p>
+        <div class="hero-cta fade-in delay-4">
+            <a href="#projetos" class="btn btn-primary">Ver projetos →</a>
+            <a href="#contato" class="btn btn-secondary">Entrar em contato</a>
+        </div>
+    </div>
+</section>
+
+<!-- ── STACK ── -->
+<section class="stack-section" id="stack">
+    <div class="site-wrapper">
+        <p class="section-label">Stack técnica</p>
+        <div class="stack-grid">
+            @foreach (var item in _stack)
+            {
+                <div class="stack-item">
+                    <div class="stack-dot"></div>
+                    <div class="stack-item-cat">@item.Category</div>
+                    <div class="stack-item-name">@item.Name</div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+<!-- ── PROJETOS ── -->
+<section class="projects-section" id="projetos">
+    <div class="site-wrapper">
+        <p class="section-label">Projetos</p>
+
+        <div class="project-card">
+            <div class="project-header">
+                <span class="project-number">01 / 01</span>
+                <div class="project-tags">
+                    <span class="tag tag-highlight">Em produção</span>
+                    <span class="tag">Fullstack</span>
+                </div>
+            </div>
+            <div class="project-body">
+                <h2 class="project-title">Sistema de Medicamentos</h2>
+                <p class="project-desc">
+                    Aplicação fullstack para gerenciamento de medicamentos.
+                    Backend em .NET com API REST, banco de dados PostgreSQL serverless via Neon,
+                    hospedagem da API no Render e interface consumindo os endpoints de forma reativa.
+                </p>
+                <div class="project-stack">
+                    @foreach (var tech in _medTechs)
+                    {
+                        <span class="stack-badge">@tech</span>
+                    }
+                </div>
+                <div class="project-links">
+                    <a href="https://github.com/arielmariussi" target="_blank" class="btn btn-secondary">
+                        GitHub →
+                    </a>
+                    <a href="https://med-lembretederemedios.onrender.com/swagger/index.html" target="_blank" class="btn btn-primary">
+                        API ao vivo →
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- ── CONTATO ── -->
+<section class="contact-section" id="contato">
+    <div class="site-wrapper">
+        <p class="section-label">Contato</p>
+        <h2 style="font-family: var(--font-display); font-size: clamp(28px, 5vw, 48px); font-weight: 800; letter-spacing: -1px; margin-bottom: 12px;">
+            Vamos conversar?
+        </h2>
+        <p style="color: var(--muted); font-size: 14px; max-width: 400px;">
+            Aberto a oportunidades, freelas e colaborações em projetos .NET.
+        </p>
+
+        <div class="contact-grid">
+            <div class="contact-item">
+                <span class="contact-label">Email</span>
+                <a href="mailto:ariel@email.com">ariel@email.com</a>
+            </div>
+            <div class="contact-item">
+                <span class="contact-label">LinkedIn</span>
+                <a href="https://linkedin.com/in/arielmariussi" target="_blank">linkedin.com/in/arielmariussi</a>
+            </div>
+            <div class="contact-item">
+                <span class="contact-label">GitHub</span>
+                <a href="https://github.com/arielmariussi" target="_blank">github.com/arielmariussi</a>
+            </div>
+            <div class="contact-item">
+                <span class="contact-label">Localização</span>
+                <span style="color: var(--muted);">Brasil 🇧🇷</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+@code {
+    private record StackItem(string Category, string Name);
+
+    private readonly List<StackItem> _stack = new()
+    {
+        new("Backend",   "C# / .NET"),
+        new("Backend",   "ASP.NET Core"),
+        new("Backend",   "REST APIs"),
+        new("Frontend",  "Blazor WASM"),
+        new("Banco",     "PostgreSQL"),
+        new("Banco",     "Neon (serverless)"),
+        new("Cloud",     "Render"),
+        new("Cloud",     "Vercel"),
+        new("Versionamento", "Git / GitHub"),
+    };
+
+    private readonly List<string> _medTechs = new()
+    {
+        "C#", ".NET", "ASP.NET Core", "PostgreSQL", "Neon", "Render", "REST API", "Entity Framework"
+    };
+}
