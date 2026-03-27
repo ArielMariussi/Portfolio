@@ -1,5 +1,4 @@
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\wwwroot\publish\web.config
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\wwwroot\release\web.config
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\wwwroot\publish\emcc-props.json
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\wwwroot\publish\MeuPortfolio.staticwebassets.endpoints.json
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\wwwroot\publish\publish\emcc-props.json
@@ -16,8 +15,6 @@ D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\wwwroot\publish\r
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\wwwroot\publish\release\wwwroot\_framework\blazor.boot.json
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\wwwroot\publish\wwwroot\vercel.json
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\wwwroot\publish\wwwroot\_framework\blazor.boot.json
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\wwwroot\release\emcc-props.json
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\wwwroot\release\MeuPortfolio.staticwebassets.endpoints.json
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\wwwroot\vercel.json
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\wwwroot\emcc-props.json
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\wwwroot\web.config

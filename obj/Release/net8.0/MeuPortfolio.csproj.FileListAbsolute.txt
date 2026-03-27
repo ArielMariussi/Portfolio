@@ -1031,9 +1031,6 @@ D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\MeuPor
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\refint\MeuPortfolio.dll
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\MeuPortfolio.pdb
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\ref\MeuPortfolio.dll
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\release\web.config
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\release\emcc-props.json
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\release\MeuPortfolio.staticwebassets.endpoints.json
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\web.config
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\emcc-props.json
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\MeuPortfolio.staticwebassets.endpoints.json
@@ -1052,6 +1049,6 @@ D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publis
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\publish\wwwroot\vercel.json
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\publish\wwwroot\_framework\blazor.boot.json
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\vercel.json
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\compressed\h0z5294ros-gr6swqi1hx.gz
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\compressed\bd7wy0e4ga-31f9ljbucs.gz
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\compressed\dffkxbm06p-1b877vvw9v.gz
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\compressed\h0z5294ros-9vvby89tej.gz
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\compressed\bd7wy0e4ga-am91iamixn.gz
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\compressed\dffkxbm06p-r29t8u2z0d.gz
