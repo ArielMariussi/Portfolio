@@ -1036,9 +1036,6 @@ D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\releas
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\release\MeuPortfolio.staticwebassets.endpoints.json
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\release\wwwroot\vercel.json
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\release\wwwroot\_framework\blazor.boot.json
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\compressed\h0z5294ros-97f0qivrvm.gz
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\compressed\bd7wy0e4ga-x0ww1b2kyn.gz
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\compressed\dffkxbm06p-yvbm4qg4kj.gz
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\web.config
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\emcc-props.json
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\MeuPortfolio.staticwebassets.endpoints.json
@@ -1048,3 +1045,15 @@ D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publis
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\release\wwwroot\_framework\blazor.boot.json
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\wwwroot\vercel.json
 D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\wwwroot\_framework\blazor.boot.json
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\publish\emcc-props.json
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\publish\MeuPortfolio.staticwebassets.endpoints.json
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\publish\release\emcc-props.json
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\publish\release\MeuPortfolio.staticwebassets.endpoints.json
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\publish\release\wwwroot\vercel.json
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\publish\release\wwwroot\_framework\blazor.boot.json
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\publish\wwwroot\vercel.json
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\publish\publish\wwwroot\_framework\blazor.boot.json
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\bin\Release\net8.0\vercel.json
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\compressed\h0z5294ros-gxgoy47lg6.gz
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\compressed\bd7wy0e4ga-0gheln2wj7.gz
+D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\obj\Release\net8.0\compressed\dffkxbm06p-eetrkvf8o1.gz
