@@ -53,11 +53,12 @@
                 </div>
             </div>
             <div class="project-body">
-                <h2 class="project-title">Sistema de Medicamentos</h2>
+                <h2 class="project-title">MedReminder - Lembrete de Medicamentos</h2>
                 <p class="project-desc">
                     Aplicação fullstack para gerenciamento de medicamentos.
-                    Backend em .NET com API REST, banco de dados PostgreSQL serverless via Neon,
-                    hospedagem da API no Render e interface consumindo os endpoints de forma reativa.
+                    Backend(Med.Api) com ASP.NET Core Minimal API(Rest) , banco de dados PostgreSQL serverless via Neon,
+                    hospedagem da API no Render ,interface consumindo os endpoints de forma reativa e
+                    Frontend sendo utilizado BlazorWasm.
                 </p>
                 <div class="project-stack">
                     @foreach (var tech in _medTechs)
@@ -66,11 +67,14 @@
                     }
                 </div>
                 <div class="project-links">
-                    <a href="https://github.com/arielmariussi" target="_blank" class="btn btn-secondary">
-                        GitHub →
+                    <a href="https://med-lembrete-de-remedios.vercel.app/login" target="_blank" class="btn btn-primary">
+                        Site
                     </a>
                     <a href="https://med-lembretederemedios.onrender.com/swagger/index.html" target="_blank" class="btn btn-primary">
                         API ao vivo →
+                    </a>
+                    <a href="https://github.com/ArielMariussi" target="_blank" class="btn btn-secondary">
+                        GitHub →
                     </a>
                 </div>
             </div>
@@ -87,25 +91,25 @@
             Vamos conversar?
         </h2>
         <p style="color: var(--muted); font-size: 14px; max-width: 400px;">
-            Aberto a oportunidades, freelas e colaborações em projetos .NET.
+            Aberto a oportunidades e colaborações em projetos .NET.
         </p>
 
         <div class="contact-grid">
             <div class="contact-item">
                 <span class="contact-label">Email</span>
-                <a href="mailto:ariel@email.com">ariel@email.com</a>
+                <a href="mailto:arielmariussi@gmail.com">arielmariussi@gmail.com</a>
             </div>
             <div class="contact-item">
                 <span class="contact-label">LinkedIn</span>
-                <a href="https://linkedin.com/in/arielmariussi" target="_blank">linkedin.com/in/arielmariussi</a>
+                <a href="https://www.linkedin.com/in/ariel-mariussi-dev" target="_blank">linkedin.com/in/ariel-mariussi-dev</a>
             </div>
             <div class="contact-item">
                 <span class="contact-label">GitHub</span>
-                <a href="https://github.com/arielmariussi" target="_blank">github.com/arielmariussi</a>
+                <a href="https://github.com/ArielMariussi" target="_blank">github.com/ArielMariussi</a>
             </div>
             <div class="contact-item">
                 <span class="contact-label">Localização</span>
-                <span style="color: var(--muted);">Brasil 🇧🇷</span>
+                <span style="color: var(--muted);"> Curitiba - Brasil 🇧🇷</span>
             </div>
         </div>
     </div>
