@@ -1,9 +1,9 @@
 {
-  "outputDirectory": "release/wwwroot",
+  "outputDirectory": "release/wwwroot/wwwroot",
   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "/index.html"
     }
   ]
-}
+}}
