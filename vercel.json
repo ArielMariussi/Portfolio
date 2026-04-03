@@ -1,5 +1,7 @@
 {
-  "outputDirectory": "release/wwwroot/wwwroot",
+  "buildCommand": "dotnet publish MeuPortfolio.csproj -c Release -o release",
+  "outputDirectory": "release/wwwroot",
+  "framework": null,
   "rewrites": [
     {
       "source": "/(.*)",

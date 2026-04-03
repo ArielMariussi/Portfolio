@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Pages",
-    "\\wwwroot\\css"
+    "\\Pages"
   ],
-  "SelectedNode": "\\Layout",
+  "SelectedNode": "\\vercel.json",
   "PreviewInSolutionExplorer": false
 }
