@@ -1,8 +1,8 @@
 self.assetsManifest = {
-  "version": "LvEsnp9A",
+  "version": "CYj1v2Xr",
   "assets": [
     {
-      "hash": "sha256-QS8slj6Bcc7XVllGGcSuaWhsHm7mNPPQTuqGwgFIcbQ=",
+      "hash": "sha256-FXCKhZCVFZuBHAWrpNVLdN/TQwy2k1CLtuunseEg2JQ=",
       "url": "_framework/MeuPortfolio.wasm"
     },
     {
@@ -122,7 +122,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-UZ2mYjatyDHDUfLuGaCVHQl8Dff8im1eXuac4uO7EIo=",
+      "hash": "sha256-Y6s3FaXur/fgmhHJIl3tyBr6hD49xhCD4YB1Zvv9cvY=",
       "url": "_framework/blazor.boot.json"
     },
     {
