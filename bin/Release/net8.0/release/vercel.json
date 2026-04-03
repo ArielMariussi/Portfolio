@@ -1,5 +1,5 @@
 {
-  "outputDirectory": "release/wwwroot",
+  "outputDirectory": "release/wwwroot/wwwroot",
   "rewrites": [
     {
       "source": "/(.*)",
