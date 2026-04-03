@@ -1,3 +1,0 @@
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\wwwroot\vercel.json
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\wwwroot\emcc-props.json
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\wwwroot\web.config
