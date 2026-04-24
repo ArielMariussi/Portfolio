@@ -20,6 +20,9 @@ jobs:
       - name: Build
         run: dotnet publish -c Release -o publish
 
+      - name: Ver estrutura de pastas
+        run: find publish -type d
+
       - name: Install Vercel CLI
         run: npm install -g vercel
 
