@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|d:\\ariel\\balta.io\\projeto porfolio vercel\\meuportfolio\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|d:\\ariel\\balta.io\\projeto porfolio vercel\\meuportfolio\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|d:\\ariel\\balta.io\\projeto porfolio vercel\\meuportfolio\\meuportfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|solutionrelative:meuportfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|d:\\ariel\\balta.io\\projeto porfolio vercel\\meuportfolio\\vercel.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|solutionrelative:vercel.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|d:\\ariel\\balta.io\\projeto porfolio vercel\\meuportfolio\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AF86AD4F-E13A-C2D7-8312-183C2A06CB3B}|MeuPortfolio.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +42,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T17:44:36.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MeuPortfolio.csproj",
               "DocumentMoniker": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\MeuPortfolio.csproj",
               "RelativeDocumentMoniker": "MeuPortfolio.csproj",
               "ToolTip": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\MeuPortfolio.csproj",
               "RelativeToolTip": "MeuPortfolio.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-04-24T17:34:44.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "deploy.yml",
               "DocumentMoniker": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\.github\\workflows\\deploy.yml",
               "RelativeDocumentMoniker": ".github\\workflows\\deploy.yml",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "vercel.json",
               "DocumentMoniker": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\vercel.json",
               "RelativeDocumentMoniker": "vercel.json",
@@ -75,15 +92,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.razor",
               "DocumentMoniker": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "Pages\\Index.razor",
               "ToolTip": "D:\\Ariel\\Balta.io\\PROJETO PORFOLIO VERCEL\\MeuPortfolio\\Pages\\Index.razor",
               "RelativeToolTip": "Pages\\Index.razor",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwBwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-27T00:15:01.975Z"
+              "WhenOpened": "2026-03-27T00:15:01.975Z",
+              "EditorCaption": ""
             }
           ]
         }
