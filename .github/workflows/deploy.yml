@@ -20,15 +20,20 @@ jobs:
       - name: Build
         run: dotnet publish -c Release -o publish
 
-      - name: Ver estrutura de pastas
-        run: find publish -type d
-
       - name: Install Vercel CLI
         run: npm install -g vercel
+
+
+      - name: Link projeto Vercel
+        run: vercel link --yes --token=${{ secrets.VERCEL_TOKEN }}
+        env:
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        working-directory: publish/wwwroot
 
       - name: Deploy para Vercel
         run: vercel deploy --prod --yes --token=${{ secrets.VERCEL_TOKEN }}
         env:
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
-        working-directory: publish/wwwroot/Med.Web
+        working-directory: publish/wwwroot
