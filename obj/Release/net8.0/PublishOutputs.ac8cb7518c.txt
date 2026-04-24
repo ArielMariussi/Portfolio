@@ -1,9 +1,0 @@
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\release\web.config
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\release\emcc-props.json
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\release\MeuPortfolio.staticwebassets.endpoints.json
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\release\vercel.json
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\release\wwwroot\vercel.json
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\release\wwwroot\_framework\blazor.boot.json
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\vercel.json
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\emcc-props.json
-D:\Ariel\Balta.io\PROJETO PORFOLIO VERCEL\MeuPortfolio\release\web.config

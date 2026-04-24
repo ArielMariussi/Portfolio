@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\workflows",
     "\\Pages"
   ],
-  "SelectedNode": "\\vercel.json",
+  "SelectedNode": "\\MeuPortfolio.sln",
   "PreviewInSolutionExplorer": false
 }

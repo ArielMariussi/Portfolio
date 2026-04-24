@@ -1,0 +1,14 @@
+# .NET / Blazor
+bin/
+obj/
+release/
+
+# Vercel
+.vercel/
+
+# Visual Studio
+.vs/
+*.user
+
+# Node
+node_modules/
