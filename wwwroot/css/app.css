@@ -355,4 +355,9 @@ footer {
 
 .project-title-heading {
     color: #60f0c8;
+    font-family: var(--font-display);
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    letter-spacing: -0.5px;
 }
