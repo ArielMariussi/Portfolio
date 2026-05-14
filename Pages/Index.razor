@@ -53,20 +53,73 @@
                 </div>
             </div>
             <div class="project-body">
+                <h2 class="project-title">EmprestimoLivros</h2>
+                <p class="project-desc">
+                    <span class="project-title">Sobre:</span>EmprestimoLivros é uma aplicação web que permite o controle completo de empréstimos de livros.
+                    Cada usuário pode cadastrar, editar, excluir e visualizar seus próprios empréstimos, com sistema de autenticação e isolamento de dados.
+                    <br />
+                    <span class="project-title">Tecnologias:</span>
+                    <ul>
+                        <li>ASP.NET Core 9 MVC (framework web)</li>
+                        <li>Entity Framework Core 9 (ORM)</li>
+                        <li>ASP.NET Identity (autenticação e autorização)</li>
+                        <li>PostgreSQL/Neon (banco de dados na nuvem)</li>
+                        <li>Bootstrap 5 (interface)</li>
+                        <li>Docker (containerização)</li>
+                        <li>Render (hospedagem com CI/CD automático)</li>
+                        <li>GitHub (versionamento)</li>
+                    </ul>
+                    <span class="project-title">Quer saber mais?</span> Para mais detalhes, acesse o README do projeto no Github:<a href="https://github.com/ArielMariussi" target="_blank" class="btn btn-secondary">
+                        GitHub →
+                    </a>
+                    <a href="https://emprestimolivros-9csn.onrender.com/" target="_blank" class="btn btn-primary">
+                        Site →
+                    </a>
+                </p>
+                <br />
+                <br />
                 <h2 class="project-title">MedReminder - Lembrete de Medicamentos</h2>
                 <p class="project-desc">
-                    <span class="project-title">Sobre:</span>MedReminder é um aplicativo com a função de lembrar pessoas 
-                    de tomarem suas medicações. Ele é voltado mais para o publico que utiliza e passa seu tempo no computador.
+                    <span class="project-title">Sobre:</span>MedReminder é uma aplicação web que permite o controle completo dos
+                    medicamentos de uso contínuo ou temporário. Cada usuário pode cadastrar seus remédios, definir horários de
+                    tomada, marcar doses como tomadas e acompanhar o histórico de aderência ao tratamento, com sistema de
+                    autenticação e isolamento de dados.
                     <br />
-                    <span class="project-title">Como funciona:</span> **FAÇA UM CADASTRO COM SENHA FORTE** Já no app você deve adicionar o seu medicamento clicando em +NOVO MEDICAMENTO,
-                    adicionar seu nome ,o horario que vai tomar o remedio e salvar. Nisso sua medicacao ficara salva e voce recebera uma notificacao
-                    com um aviso sonoro("beep") quando for a hora de tomar. Se quiser voce pode mudar o estado do remedio para "Tomado" para nao esquecer,
-                    e quando der meia-noite o estado e reiniciado. <span class="btn-primary">***IMPORTANTE: PARA FUNCIONAR VOCE DEVE ESTAR COM A APLICACAO ABERTA NO BROWSER!!</span>Obs:Devido a estar sendo usado dominios diferentes, o logout ficou comprometido;
-                    entao para se deslogar voce deve apagar os cookies no DevTools na aba Console, aba Cookies.Caso o cookie nao aparece é so atualizar a pagina.
+                    O projeto é dividido em duas partes: uma Web API em ASP.NET Core 9 que expõe os endpoints e cuida da persistência,
+                    e um frontend em Blazor WebAssembly que consome a API e roda inteiramente no navegador.
                     <br />
-                    <span class="project-title">Ferramentas utilizadas:</span> Backend(Med.Api) com ASP.NET Core Minimal API(Rest) , banco de dados PostgreSQL serverless via Neon,
-                    hospedagem da API no Render ,interface consumindo os endpoints de forma reativa e
-                    Frontend sendo utilizado BlazorWasm.
+                    <span class="project-title">Observações</span>  <span class="btn-primary">
+                        ***IMPORTANTE: PARA FUNCIONAR A NOTIFICAÇÃO VOCE DEVE ESTAR COM
+                        A APLICACAO ABERTA NO BROWSER!!
+                    </span> entao para se deslogar voce deve apagar os cookies no DevTools na aba Console, aba Cookies.Caso o cookie nao aparece é so atualizar a pagina.
+                    <br />
+                    <span class="project-title">Tecnologias:</span>
+                    <ul>
+                        <li>ASP.NET Core 9 Web API (backend e endpoints REST/Minimal APIs)</li>
+                        <li>Blazor WebAssembly (frontend SPA rodando no navegador)</li>
+                        <li>Entity Framework Core 9 (ORM)</li>
+                        <li>ASP.NET Identity (autenticação e autorização)</li>
+                        <li>PostgreSQL/Neon (banco de dados na nuvem)</li>
+                        <li>Docker (containerização do backend)</li>
+                        <li>GitHub Actions (CI/CD com build e deploy automatizados)</li>
+                        <li>Render (hospedagem da Web API)</li>
+                        <li>Vercel (hospedagem do frontend Blazor WASM)</li>
+                        <li>GitHub (versionamento)</li>
+                    </ul>
+                    <br />
+                    <span class="project-title">Quer saber mais?</span> Para mais detalhes, acesse o README do projeto no Github:
+                    <div class="project-links">
+                        <a href="https://github.com/ArielMariussi" target="_blank" class="btn btn-secondary">
+                            GitHub →
+                        </a>
+                        <a href="https://med-lembrete-de-remedios.vercel.app/login" target="_blank" class="btn btn-primary">
+                            Site →
+                        </a>
+                        <a href="https://med-lembretederemedios.onrender.com/swagger/index.html" target="_blank" class="btn btn-primary">
+                            API ao vivo →
+                        </a>
+                    </div>
+
                 </p>
                 <div class="project-stack">
                     @foreach (var tech in _medTechs)
