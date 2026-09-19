@@ -55,10 +55,10 @@
             <div class="project-body">
                 <h1 class="project-title-heading">EmprestimoLivros(BookLoan)</h1>
                 <p class="project-desc">
-                    <span class="project-title">About:</span>EmprestimoLivros(BookLoan) is a 
-                    web application that provides complete control over book loans. Each user 
-                    can create, edit, delete, and view their own loans, with an authentication 
-                    system and data isolation.               
+                    <span class="project-title">About:</span>EmprestimoLivros(BookLoan) is a
+                    web application that provides complete control over book loans. Each user
+                    can create, edit, delete, and view their own loans, with an authentication
+                    system and data isolation.
                     <br />
                     <span class="project-title">Tecnologies:</span>
                     <ul>
@@ -74,71 +74,73 @@
                     <br />
                     <br />
                     <span class="project-title">Want to know more?</span> For more details, check out the project's README on GitHub:<a href="https://github.com/ArielMariussi" target="_blank" class="btn btn-secondary">
+                    GitHub →
+                </a>
+                <a href="https://emprestimolivros-9csn.onrender.com/" target="_blank" class="btn btn-primary">
+                    Website →
+                </a>
+            </p>
+            <br />
+            <br />
+            <h1 class="project-title project-title-heading">MedReminder</h1>
+            <p class="project-desc">
+                <span class="project-title">Sobre:</span>MedReminder is a web application that provides complete control over continuous or temporary medications by alerting you when
+                it's time to take your medicine with a sound alert and a
+                notification (if you're using Google Chrome, check that notifications aren't blocked by the operating system).
+                Each user can register their medications, set dosing times,
+                mark doses as taken, and track their treatment adherence history, with an
+                authentication system and data isolation.
+                <br />
+                The project is split into two parts: an ASP.NET Core 9 Web API that exposes the endpoints and handles persistence,
+                and a Blazor WebAssembly frontend that consumes the API and runs entirely in the browser.
+                <br />
+                <span class="project-title">Tecnologias:</span>
+                <ul>
+                    <li>ASP.NET Core 9 Web API (backend and REST/Minimal API endpoints)</li>
+                    <li>Blazor WebAssembly (SPA frontend running in the browser)</li>
+                    <li>Entity Framework Core 9 (ORM)</li>
+                    <li>ASP.NET Identity (authentication and authorization)</li>
+                    <li>PostgreSQL/Neon (cloud database)</li>
+                    <li>Docker (backend containerization)</li>
+                    <li>GitHub Actions (CI/CD with automated build and deploy)</li>
+                    <li>Render (Web API hosting)</li>
+                    <li>Vercel (Blazor WASM frontend hosting)</li>
+                    <li>GitHub (version control)</li>
+                </ul>
+                <br />
+                <br />
+                <br />
+                <span class="project-title">Want to know more?</span> For more details, checkout the project's README on Github:
+                <div class="project-links">
+                    <a href="https://github.com/ArielMariussi" target="_blank" class="btn btn-secondary">
                         GitHub →
                     </a>
-                    <a href="https://emprestimolivros-9csn.onrender.com/" target="_blank" class="btn btn-primary">
+                    <a href="https://med-lembrete-de-remedios.vercel.app/login" target="_blank" class="btn btn-primary">
                         Website →
                     </a>
-                </p>
-                <br />
-                <br />
-                <h1 class="project-title project-title-heading">MedReminder - Lembrete de Medicamentos</h1>
-                <p class="project-desc">
-                    <span class="project-title">Sobre:</span>MedReminder é uma aplicação web que permite o controle completo dos
-                    medicamentos de uso contínuo ou temporário ao avisar a hora de tomar o remedio com um aviso sonoro e tambem uma notificacao(caso estaja usando Google Chorme deve ser checado se o mesmo nao esta bloqueado pelo Sistema Operacional). Cada usuário pode cadastrar seus remédios, definir horários de
-                    tomada, marcar doses como tomadas e acompanhar o histórico de aderência ao tratamento, com sistema de
-                    autenticação e isolamento de dados.
-                    <br />
-                    O projeto é dividido em duas partes: uma Web API em ASP.NET Core 9 que expõe os endpoints e cuida da persistência,
-                    e um frontend em Blazor WebAssembly que consome a API e roda inteiramente no navegador.
-                    <br />
-                    <span class="project-title">Tecnologias:</span>
-                    <ul>
-                        <li>ASP.NET Core 9 Web API (backend e endpoints REST/Minimal APIs)</li>
-                        <li>Blazor WebAssembly (frontend SPA rodando no navegador)</li>
-                        <li>Entity Framework Core 9 (ORM)</li>
-                        <li>ASP.NET Identity (autenticação e autorização)</li>
-                        <li>PostgreSQL/Neon (banco de dados na nuvem)</li>
-                        <li>Docker (containerização do backend)</li>
-                        <li>GitHub Actions (CI/CD com build e deploy automatizados)</li>
-                        <li>Render (hospedagem da Web API)</li>
-                        <li>Vercel (hospedagem do frontend Blazor WASM)</li>
-                        <li>GitHub (versionamento)</li>
-                    </ul>
-                    <br />
-                    <br />
-                    <br />
-                    <span class="project-title">Quer saber mais?</span> Para mais detalhes, acesse o README do projeto no Github:
-                    <div class="project-links">
-                        <a href="https://github.com/ArielMariussi" target="_blank" class="btn btn-secondary">
-                            GitHub →
-                        </a>
-                        <a href="https://med-lembrete-de-remedios.vercel.app/login" target="_blank" class="btn btn-primary">
-                            Site →
-                        </a>
-                        <a href="https://med-lembretederemedios.onrender.com/swagger/index.html" target="_blank" class="btn btn-primary">
-                            API ao vivo →
-                        </a>
-                    </div>
-
-                </p>
-                <div class="project-stack">
-                    @foreach (var tech in _medTechs)
-                    {
-                        <span class="stack-badge">@tech</span>
-                    }
+                    <a href="https://med-lembretederemedios.onrender.com/swagger/index.html" target="_blank" class="btn btn-primary">
+                        Live API →
+                    </a>
                 </div>
-           
-            </div>
-        </div>
 
+            </p>
+            <div class="project-stack">
+                @foreach (var tech in _medTechs)
+                {
+                    <span class="stack-badge">@tech</span>
+                }
+            </div>
+
+        </div>
     </div>
+
+</div>
 </section>
 
 <!-- ── CONTATO ── -->
 <section class="contact-section" id="contato">
     <div class="site-wrapper">
-        <p class="section-label">Contato</p>
+        <p class="section-label">Contact</p>
         <h2 style="font-family: var(--font-display); font-size: clamp(28px, 5vw, 48px); font-weight: 800; letter-spacing: -1px; margin-bottom: 12px;">
             Vamos conversar?
         </h2>
@@ -160,7 +162,7 @@
                 <a href="https://github.com/ArielMariussi" target="_blank">github.com/ArielMariussi</a>
             </div>
             <div class="contact-item">
-                <span class="contact-label">Localização</span>
+                <span class="contact-label">Localization</span>
                 <span style="color: var(--muted);"> Curitiba - Brasil 🇧🇷</span>
             </div>
         </div>
