@@ -11,9 +11,10 @@
         </h1>
         <p class="hero-role fade-in delay-2">// C# · .NET · Blazor · REST APIs</p>
         <p class="hero-desc fade-in delay-3">
-            Full-stack developer specializing in <strong>.NET</strong>and <strong>C#</strong>.
-            I build robust APIs, modern interfaces with Blazor, and end-to-end solutions
+            Full-stack developer specializing in <strong>.NET</strong> and <strong>C#</strong> with <strong>AI Generative/AI Tools</strong>.
+            I build robust APIs, and end-to-end solutions
             from the database to the UI.
+            I guarantee that I can solve your problem.
         </p>
         <div class="hero-cta fade-in delay-4">
             <a href="#projetos" class="btn btn-primary"> Projetcs →</a>
@@ -53,6 +54,47 @@
                 </div>
             </div>
             <div class="project-body">
+
+                <h1 class="project-title project-title-heading">ConsorcioMariussi</h1>
+                <p class="project-desc">
+                    <span class="project-title">Sobre:</span>Gerenciador de cotas de consórcio.
+                    Cadastre suas cotas (Administradora, Grupo e Cota)
+                    e acompanhe quanto você já investiu e quanto já teve de lucro em cada uma. Alem de ter possuir
+                    diversas informacoes de cada cota sua, como Vencimento, Previsao de Lucro , etc.
+                    <br />
+                    The project is split into two parts: an ASP.NET Core 10 Web API that exposes the endpoints and handles persistence,
+                    and a Blazor WebAssembly frontend that consumes the API and runs entirely in the browser.
+                    <br />
+                    <span class="project-title">Tecnologies:</span>
+                    <ul>
+                        <li>ASP.NET Core 10 Web API (backend and REST/Minimal API endpoints)</li>
+                        <li>Blazor WebAssembly (SPA frontend running in the browser)</li>
+                        <li>Entity Framework Core 10 (ORM)</li>
+                        <li>ASP.NET Identity (authentication and authorization)</li>
+                        <li>PostgreSQL/Neon (cloud database)</li>
+                        <li>Docker (backend containerization)</li>
+                        <li>Render (Web API hosting)</li>
+                        <li>GitHub (version control)</li>
+                    </ul>
+                    <br />
+                    <br />
+                    <br />
+                    <span class="project-title">Want to know more?</span> For more details, checkout the project's README on Github:
+                    <div class="project-links">
+                        <a href="https://github.com/ArielMariussi" target="_blank" class="btn btn-secondary">
+                            GitHub →
+                        </a>
+                        <a href="https://consorciomariussi-1.onrender.com" target="_blank" class="btn btn-primary">
+                            Website →
+                        </a>
+                        <a href="https://consorciomariussi.onrender.com" target="_blank" class="btn btn-primary">
+                            Live API →
+                        </a>
+                    </div>
+
+                </p>
+                <br />
+                <br />
                 <h1 class="project-title-heading">EmprestimoLivros(BookLoan)</h1>
                 <p class="project-desc">
                     <span class="project-title">About:</span>EmprestimoLivros(BookLoan) is a
@@ -82,48 +124,7 @@
             </p>
             <br />
             <br />
-            <h1 class="project-title project-title-heading">MedReminder</h1>
-            <p class="project-desc">
-                <span class="project-title">Sobre:</span>MedReminder is a web application that provides complete control over continuous or temporary medications by alerting you when
-                it's time to take your medicine with a sound alert and a
-                notification (if you're using Google Chrome, check that notifications aren't blocked by the operating system).
-                Each user can register their medications, set dosing times,
-                mark doses as taken, and track their treatment adherence history, with an
-                authentication system and data isolation.
-                <br />
-                The project is split into two parts: an ASP.NET Core 9 Web API that exposes the endpoints and handles persistence,
-                and a Blazor WebAssembly frontend that consumes the API and runs entirely in the browser.
-                <br />
-                <span class="project-title">Tecnologies:</span>
-                <ul>
-                    <li>ASP.NET Core 9 Web API (backend and REST/Minimal API endpoints)</li>
-                    <li>Blazor WebAssembly (SPA frontend running in the browser)</li>
-                    <li>Entity Framework Core 9 (ORM)</li>
-                    <li>ASP.NET Identity (authentication and authorization)</li>
-                    <li>PostgreSQL/Neon (cloud database)</li>
-                    <li>Docker (backend containerization)</li>
-                    <li>GitHub Actions (CI/CD with automated build and deploy)</li>
-                    <li>Render (Web API hosting)</li>
-                    <li>Vercel (Blazor WASM frontend hosting)</li>
-                    <li>GitHub (version control)</li>
-                </ul>
-                <br />
-                <br />
-                <br />
-                <span class="project-title">Want to know more?</span> For more details, checkout the project's README on Github:
-                <div class="project-links">
-                    <a href="https://github.com/ArielMariussi" target="_blank" class="btn btn-secondary">
-                        GitHub →
-                    </a>
-                    <a href="https://med-lembrete-de-remedios.vercel.app/login" target="_blank" class="btn btn-primary">
-                        Website →
-                    </a>
-                    <a href="https://med-lembretederemedios.onrender.com/swagger/index.html" target="_blank" class="btn btn-primary">
-                        Live API →
-                    </a>
-                </div>
 
-            </p>
             <div class="project-stack">
                 @foreach (var tech in _medTechs)
                 {
@@ -142,7 +143,7 @@
     <div class="site-wrapper">
         <p class="section-label">Contact</p>
         <h2 style="font-family: var(--font-display); font-size: clamp(28px, 5vw, 48px); font-weight: 800; letter-spacing: -1px; margin-bottom: 12px;">
-           LETS GET IN TOUCH?
+            LETS GET IN TOUCH?
         </h2>
         <p style="color: var(--muted); font-size: 14px; max-width: 400px;">
             Open to opportunities and collaboration on .NET projects.
@@ -183,10 +184,12 @@
         new("Cloud",     "Render"),
         new("Cloud",     "Vercel"),
         new("Versionamento", "Git / GitHub"),
+
+        new("AI · Spec Driven", "GitHub Spec Kit")
     };
 
     private readonly List<string> _medTechs = new()
     {
-        "C#", ".NET", "ASP.NET Core", "PostgreSQL", "Neon", "Render", "REST API", "Entity Framework"
+       "AI · Spec Driven", "C#", ".NET", "ASP.NET Core", "PostgreSQL", "Neon", "Render", "REST API", "Entity Framework"
     };
 }
